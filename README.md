@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Back-end Development**
 
-- 🌱 I’m currently learning **Livewire, VueJS and**
+- 🌱 I’m currently learning **Design Patterns, SOLID and System Designs**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
