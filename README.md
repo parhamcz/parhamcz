@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
-- 💬 Ask me about **PHP, laravel**
+- 💬 Ask me about **PHP, laravel and Back-end engineering**
 
 - 📫 How to reach me **Parham.safaiyan@gmail.com**
 
